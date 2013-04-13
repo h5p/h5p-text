@@ -19,4 +19,5 @@ H5P.Text = function (params, contentPath) {
  */
 H5P.Text.prototype.attach = function ($wrapper) {
   $wrapper.html(this.text);
+  this.$element = $wrapper.children();
 };
