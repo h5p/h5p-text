@@ -10,7 +10,7 @@
   "author": "Frode Petterson",
   "preloadedJs": [
     {
-      "path": "Scripts/teXt.js"
+      "path": "scripts/text.js"
     }
   ]
 }
