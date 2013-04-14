@@ -2,6 +2,7 @@
   {
     "name": "text",
     "type": "text",
+    "widget": "html",
     "label": "Text"
   }
 ]

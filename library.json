@@ -1,11 +1,11 @@
 {
   "title": "Text",
-  "contentType": "Library",
+  "contentType": "Static content",
   "description": "Simple library that displays text.",
   "majorVersion": 1,
   "minorVersion": 0,
   "patchVersion": 0,
-  "runnable": 0,
+  "runnable": 1,
   "machineName": "H5P.Text",
   "author": "Frode Petterson",
   "preloadedJs": [
