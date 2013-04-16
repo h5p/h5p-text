@@ -7,7 +7,7 @@ var H5P = H5P || {};
  * @param {string} contentPath The path to our content folder.
  */
 H5P.Text = function (params, contentPath) {
-  this.text = params.text;
+  this.text = params.text === undefined ? '<em>New text</em>' : params.text;
 };
 
 /**
