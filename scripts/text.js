@@ -16,5 +16,5 @@ H5P.Text = function (params, contentPath) {
  * @param {jQuery} $wrapper
  */
 H5P.Text.prototype.attach = function ($wrapper) {
-  $wrapper.html(this.text);
+  $wrapper.addClass('h5p-text').html(this.text);
 };
