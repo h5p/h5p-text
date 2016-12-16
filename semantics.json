@@ -3,6 +3,7 @@
     "name": "text",
     "type": "text",
     "widget": "html",
+    "importance": "high",
     "label": "Text",
     "enterMode": "p",
     "tags": [
