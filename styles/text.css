@@ -1,3 +1,9 @@
+.h5p-text{
+  font-family: var(--h5p-theme-font-name);
+  font-size: var(--h5p-theme-font-size-m);
+  color: var(--h5p-theme-text-primary);
+  background-color: none;
+}
 .h5p-text ul,
 .h5p-text li {
     padding-left: 0;
@@ -13,5 +19,5 @@
   padding-left: 0;
 }
 .h5p-text.h5p-frame {
-  margin: 1em;
+  margin: var(--h5p-theme-spacing-s);
 }
