@@ -8,6 +8,10 @@
   "runnable": 0,
   "machineName": "H5P.Text",
   "author": "Joubel",
+  "coreApi": {
+    "majorVersion": 1,
+    "minorVersion": 28
+  },
   "preloadedJs": [
     {
       "path": "scripts/text.js"
